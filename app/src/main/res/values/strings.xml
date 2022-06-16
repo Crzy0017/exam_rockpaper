@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rockpaper</string>
+    <string name="mainText">Rock Paper Scissors</string>
+    <string name="actionText">Выберите оружие</string>
+    <string name="actionChoose">Выбрать</string>
+    <string name="actionFight">Дуэль!</string>
+    <string name="actionNewFight">Еще!</string>
+</resources>
